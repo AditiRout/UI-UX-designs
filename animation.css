@@ -1,0 +1,18 @@
+/*
+The CSS export should solely be used as a reference.
+For a more detailed animation export the JSON file should be used.
+*/
+#Chocolate_donuts {
+    transform: translateX(-50%) translateY(-50%);
+    animation: Chocolate_donuts__y__1 463ms 0ms linear forwards;
+}
+
+@keyframes Chocolate_donuts__y__1 {
+    from {
+        top: 0px;
+    }
+
+    to {
+        top: 740px;
+    }
+}

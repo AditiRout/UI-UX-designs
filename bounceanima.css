@@ -1,0 +1,54 @@
+/*
+The CSS export should solely be used as a reference.
+For a more detailed animation export the JSON file should be used.
+*/
+#Ellipse_4 {
+    transform: translateX(-50%) translateY(-50%);
+    animation: Ellipse_4__y__1 6ms 0ms linear forwards, Ellipse_4__y__2 294ms 6ms linear forwards, Ellipse_4__y__3 197ms 300ms linear forwards, Ellipse_4__y__4 179ms 497ms linear forwards, Ellipse_4__y__5 325ms 676ms linear forwards;
+}
+
+@keyframes Ellipse_4__y__1 {
+    from {
+        top: 322.5px;
+    }
+
+    to {
+        top: 322.5px;
+    }
+}
+@keyframes Ellipse_4__y__2 {
+    from {
+        top: 322.5px;
+    }
+
+    to {
+        top: 440px;
+    }
+}
+@keyframes Ellipse_4__y__3 {
+    from {
+        top: 440px;
+    }
+
+    to {
+        top: 590px;
+    }
+}
+@keyframes Ellipse_4__y__4 {
+    from {
+        top: 590px;
+    }
+
+    to {
+        top: 440px;
+    }
+}
+@keyframes Ellipse_4__y__5 {
+    from {
+        top: 440px;
+    }
+
+    to {
+        top: 322.5px;
+    }
+}
